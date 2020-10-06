@@ -1,0 +1,52 @@
+.background {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.top {
+  background-color: black;
+}
+
+.ui.huge.borderless.menu {
+  height: 80px;
+  background-color: white;
+}
+
+.ui.bottom.menu {
+  background-color: black;
+}
+
+.ui.centered.grid {
+  /*margin-top: 50px;*/
+  text-align: center;
+}
+.fitted.item {
+  border: none;
+}
+
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  row-gap: 0px;
+  column-gap: 0px;
+}
+
+.column img{
+  width: 100%;
+}
+
+body {
+  overflow: scroll;
+}
+
+.wtext {
+  color: white;
+}
+
+.gtext {
+  color: gray;
+}
